@@ -1,0 +1,13 @@
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\TCPServer\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.exe
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\TCPServer\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.deps.json
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\TCPServer\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.runtimeconfig.json
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\TCPServer\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.runtimeconfig.dev.json
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\TCPServer\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.dll
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\TCPServer\TCPServer\bin\Debug\netcoreapp3.1\TCPServer.pdb
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\TCPServer\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.csprojAssemblyReference.cache
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\TCPServer\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.AssemblyInfoInputs.cache
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\TCPServer\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.AssemblyInfo.cs
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\TCPServer\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.csproj.CoreCompileInputs.cache
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\TCPServer\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.dll
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\TCPServer\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.pdb
+C:\Users\Luka_ry90\source\repos\NetworkProgramming\TCPServer\TCPServer\obj\Debug\netcoreapp3.1\TCPServer.genruntimeconfig.cache
